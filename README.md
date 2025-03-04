@@ -112,7 +112,7 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 
 ## Credits
 
-- Developed by **[BestDigital.ro](https://github.com/alinrzv)**.
+- Developed by **[alinrzv](https://github.com/alinrzv)**.
 - Built for the WordPress community.
 
 ---
